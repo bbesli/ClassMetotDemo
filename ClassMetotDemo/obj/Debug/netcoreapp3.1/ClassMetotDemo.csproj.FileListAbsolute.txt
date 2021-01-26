@@ -1,0 +1,13 @@
+C:\Users\dev.User\Desktop\Odevler\Gun_3_Odev_3\ClassMetotDemo\ClassMetotDemo\obj\Debug\netcoreapp3.1\ClassMetotDemo.AssemblyInfoInputs.cache
+C:\Users\dev.User\Desktop\Odevler\Gun_3_Odev_3\ClassMetotDemo\ClassMetotDemo\obj\Debug\netcoreapp3.1\ClassMetotDemo.AssemblyInfo.cs
+C:\Users\dev.User\Desktop\Odevler\Gun_3_Odev_3\ClassMetotDemo\ClassMetotDemo\obj\Debug\netcoreapp3.1\ClassMetotDemo.csproj.CoreCompileInputs.cache
+C:\Users\dev.User\Desktop\Odevler\Gun_3_Odev_3\ClassMetotDemo\ClassMetotDemo\bin\Debug\netcoreapp3.1\ClassMetotDemo.exe
+C:\Users\dev.User\Desktop\Odevler\Gun_3_Odev_3\ClassMetotDemo\ClassMetotDemo\bin\Debug\netcoreapp3.1\ClassMetotDemo.deps.json
+C:\Users\dev.User\Desktop\Odevler\Gun_3_Odev_3\ClassMetotDemo\ClassMetotDemo\bin\Debug\netcoreapp3.1\ClassMetotDemo.runtimeconfig.json
+C:\Users\dev.User\Desktop\Odevler\Gun_3_Odev_3\ClassMetotDemo\ClassMetotDemo\bin\Debug\netcoreapp3.1\ClassMetotDemo.runtimeconfig.dev.json
+C:\Users\dev.User\Desktop\Odevler\Gun_3_Odev_3\ClassMetotDemo\ClassMetotDemo\bin\Debug\netcoreapp3.1\ClassMetotDemo.dll
+C:\Users\dev.User\Desktop\Odevler\Gun_3_Odev_3\ClassMetotDemo\ClassMetotDemo\bin\Debug\netcoreapp3.1\ClassMetotDemo.pdb
+C:\Users\dev.User\Desktop\Odevler\Gun_3_Odev_3\ClassMetotDemo\ClassMetotDemo\obj\Debug\netcoreapp3.1\ClassMetotDemo.dll
+C:\Users\dev.User\Desktop\Odevler\Gun_3_Odev_3\ClassMetotDemo\ClassMetotDemo\obj\Debug\netcoreapp3.1\ClassMetotDemo.pdb
+C:\Users\dev.User\Desktop\Odevler\Gun_3_Odev_3\ClassMetotDemo\ClassMetotDemo\obj\Debug\netcoreapp3.1\ClassMetotDemo.genruntimeconfig.cache
+C:\Users\dev.User\Desktop\Odevler\Gun_3_Odev_3\ClassMetotDemo\ClassMetotDemo\obj\Debug\netcoreapp3.1\ClassMetotDemo.csprojAssemblyReference.cache
