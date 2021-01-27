@@ -7,10 +7,14 @@ namespace ClassMetotDemo
         static void Main(string[] args)
         {
             MusteriManager MusteriManager = new MusteriManager();
+            Musteri m1 = new Musteri { KimlikNumrasi=1, MusteriAdi="burak", MusteriSoyadi="Besli", MusteriDogumTarihi ="Mayis" };
+            Musteri m2 = new Musteri { KimlikNumrasi=2, MusteriAdi="deniz", MusteriSoyadi="Besli", MusteriDogumTarihi ="Ağustos" };
+            Musteri m3 = new Musteri { KimlikNumrasi=3, MusteriAdi="bozca", MusteriSoyadi="Besli", MusteriDogumTarihi ="Nisan" };
 
-            MusteriManager.MusteriEkle(1, "Burak", "Besli", "Mayis");
-            MusteriManager.MusteriEkle(2, "Deniz", "Besli", "Ağustos");
-            MusteriManager.MusteriEkle(3, "Bozca", "KEDİ", "Nisan");
+            MusteriManager.MusteriEkle(m1);
+            MusteriManager.MusteriEkle(m2);
+            MusteriManager.MusteriEkle(m3);
+            
 
             MusteriManager.MusteriListele();
             //MusteriManager.ArananMusteriListele(2);

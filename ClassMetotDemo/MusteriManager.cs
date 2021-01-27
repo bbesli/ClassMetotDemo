@@ -9,16 +9,10 @@ namespace ClassMetotDemo
     {
         List<Musteri> Musteriler = new List<Musteri>();/* Musteri class'ımıza ait bir Liste oluşturuyoruz. MusteriManager'ın altında tanımlamamızın sebebi metotlar içerisindeki işlemler tekrarlandığında
                                                         * veri kaybı olmaması.*/
-        public void MusteriEkle(int KimlikNumarasi, string Adi, string Soyadi, string DogumTarihi)/*Parametreler ile dışarıda bulunan class tipindeki listeye veri ekleme metodu.*/
+        public void MusteriEkle(Musteri musteri)/*Parametreler ile dışarıda bulunan class tipindeki listeye veri ekleme metodu.*/
         {
-            Musteri Musteri = new Musteri();
-
-            Musteri.KimlikNumrasi = KimlikNumarasi;
-            Musteri.MusteriAdi = Adi;
-            Musteri.MusteriSoyadi = Soyadi;
-            Musteri.MusteriDogumTarihi = DogumTarihi;
-
-            Musteriler.Add(Musteri);
+            
+            Musteriler.Add(musteri);
 
         }
         public void MusteriListele()/*dışarıda bulunan class(Musteri) tipindeki listenin elemanlarını listelemeya yarayan metot*/
